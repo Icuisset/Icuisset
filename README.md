@@ -6,11 +6,18 @@ EXPERIENCE
 -----------------------
 I started my journey into Web development in July 2020.
 Digital strategy has become an essential component of the fashion industry over recent years and I became more and more engaged with the digital world while working on exceptional luxury products.
+
 Motivated by my passion for technology, I decided to commit to a new exciting professional development path into Software Engineering.
+
 As part of my journey, I joined a ten months Web development BootCamp program with Practicum by Yandex at the end of 2020 where I gained proficiency in the latest Web Technologies.
+
 In the meantime, I also officially launched my own Web design and development business, isaWabi.com.
 I validate Web design projects with Figma and provide Web development services using mainly Webflow and React.js/Next.js for private clients.
-I have a strong taste for great usability and user experiences, and I'm driving for high standards when it comes to performance and clean code. I'm looking forward to contributing to further engaging and impactful projects in the future, partnering with talented people.
+
+I have a strong taste for great usability and user experiences, and I'm driving for high standards when it comes to performance and clean code. 
+
+I'm looking forward to contributing to further engaging and impactful projects in the future, partnering with talented people.
+
 
 TECHNOLOGIES
 -----------------------
