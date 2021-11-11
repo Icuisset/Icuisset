@@ -14,7 +14,7 @@ Motivated by my passion for technology, I decided to commit to a new exciting pr
 As part of my journey, I joined a ten months Web development BootCamp program with Practicum by Yandex at the end of 2020 where I gained proficiency in the latest Web Technologies.
 
 In the meantime, I also officially launched my own Web design and development business, isaWabi.com.
-I validate Web design projects with Figma and provide Web development services using mainly Webflow and React.js/Next.js for private clients.
+I create and validate Web design projects with Figma and provide Web development services using mainly Webflow and React.js/Next.js for private clients.
 
 I have a strong taste for great usability and user experiences, and I'm driving for high standards when it comes to performance and clean code. 
 
