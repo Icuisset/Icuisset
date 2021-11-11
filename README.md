@@ -6,7 +6,7 @@
 
 EXPERIENCE
 -----------------------
-I started my journey into Web development in July 2020.
+I started my journey into Web development in July 2020, with a background of over 10 years experience in Luxury Fashion at Director level.
 Digital strategy has become an essential component of the fashion industry over recent years and I became more and more engaged with the digital world while working on exceptional luxury products.
 
 Motivated by my passion for technology, I decided to commit to a new exciting professional development path into Software Engineering.
