@@ -28,7 +28,7 @@ TECHNOLOGIES
 - Modern React.js including Hooks and Context API
 - NEXT.JS framework
 - Building and deploying MERN stack: Node.js, Express, React.js, MongoDB
-- Web Performance, Restful APIs, Microservices Architecture, Testing
+- Web Performance, Restful APIs, GraphQL, Microservices Architecture, Testing
 - Git version control, Figma, Webflow.
 
 LINKS
