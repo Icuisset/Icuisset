@@ -29,7 +29,7 @@ TECHNOLOGIES
 - NEXT.JS framework
 - Building and deploying MERN stack: Node.js, Express, React.js, MongoDB
 - Web Performance, Restful APIs, GraphQL, Microservices Architecture, Testing
-- Git version control, Figma, Webflow.
+- Git version control, Figma, Webflow, GSAP
 
 LINKS
 -----------------------
